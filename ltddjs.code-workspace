@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "standard.semistandard": true,
+    "editor.formatOnPaste": true,
+    "prettier.singleQuote": true
+  }
+}
